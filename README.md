@@ -1,1 +1,2 @@
 # Performance-Grade-Predictions
+Data provided by UC Irvine’s machine learning repository focuses on student performance grades. The dataset includes various attributes used to predict a student's performance grade, referred to as the target. These features include age, sex, family size, past grades, absences, and internet access. The goal is to create a regression model that identifies students who may need additional assistance and interventions to improve their course performance.
